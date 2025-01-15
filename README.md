@@ -54,6 +54,9 @@ Charge ou sauvegarde des plantes à partir de fichiers au format **txt** ou **JS
 8. **Afficher les plantes prêtes à être récoltées** :  
 Liste uniquement les plantes ayant atteint le stade final _(le stade 2)_.  
 
+9. **Afficher l'espace disponible au potager** :  
+Donne le nombre de places libres restant dans le potager.
+
 ## 🔍 Exemples d'utilisation  
 Voici quelques exemples d'utilisation à titre indicatif.  
 
