@@ -1,0 +1,14 @@
+/home/clotilde/Documents/SCOLARITE/MASTER/M2_PLURITAL/Prog_Objet/projet/obj/Debug/net8.0/projet.GeneratedMSBuildEditorConfig.editorconfig
+/home/clotilde/Documents/SCOLARITE/MASTER/M2_PLURITAL/Prog_Objet/projet/obj/Debug/net8.0/projet.AssemblyInfoInputs.cache
+/home/clotilde/Documents/SCOLARITE/MASTER/M2_PLURITAL/Prog_Objet/projet/obj/Debug/net8.0/projet.AssemblyInfo.cs
+/home/clotilde/Documents/SCOLARITE/MASTER/M2_PLURITAL/Prog_Objet/projet/obj/Debug/net8.0/projet.csproj.CoreCompileInputs.cache
+/home/clotilde/Documents/SCOLARITE/MASTER/M2_PLURITAL/Prog_Objet/projet/bin/Debug/net8.0/projet
+/home/clotilde/Documents/SCOLARITE/MASTER/M2_PLURITAL/Prog_Objet/projet/bin/Debug/net8.0/projet.deps.json
+/home/clotilde/Documents/SCOLARITE/MASTER/M2_PLURITAL/Prog_Objet/projet/bin/Debug/net8.0/projet.runtimeconfig.json
+/home/clotilde/Documents/SCOLARITE/MASTER/M2_PLURITAL/Prog_Objet/projet/bin/Debug/net8.0/projet.dll
+/home/clotilde/Documents/SCOLARITE/MASTER/M2_PLURITAL/Prog_Objet/projet/bin/Debug/net8.0/projet.pdb
+/home/clotilde/Documents/SCOLARITE/MASTER/M2_PLURITAL/Prog_Objet/projet/obj/Debug/net8.0/projet.dll
+/home/clotilde/Documents/SCOLARITE/MASTER/M2_PLURITAL/Prog_Objet/projet/obj/Debug/net8.0/refint/projet.dll
+/home/clotilde/Documents/SCOLARITE/MASTER/M2_PLURITAL/Prog_Objet/projet/obj/Debug/net8.0/projet.pdb
+/home/clotilde/Documents/SCOLARITE/MASTER/M2_PLURITAL/Prog_Objet/projet/obj/Debug/net8.0/projet.genruntimeconfig.cache
+/home/clotilde/Documents/SCOLARITE/MASTER/M2_PLURITAL/Prog_Objet/projet/obj/Debug/net8.0/ref/projet.dll
