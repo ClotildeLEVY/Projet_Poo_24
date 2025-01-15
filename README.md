@@ -57,17 +57,17 @@ Liste uniquement les plantes ayant atteint le stade final _(le stade 2)_.
 ## 🔍 Exemples d'utilisation  
 Voici quelques exemples d'utilisation à titre indicatif.  
 
-### AJOUTER UNE PLANTE  
+#### AJOUTER UNE PLANTE  
 - taper `1` dans le menu principal
 - le programme demandera d'entrer le **nom** de la plante : _Piment_, le **type** : _Légume_ et le **stade** : _0_  
 - un message indiquera que la plante a bien été ajoutée au potager ou non si les arguments ne sont pas valides _(si le type et/ou le stade de croissance sont incorrects)_.  
 
-### ARROSER LES PLANTES DU POTAGER
+#### ARROSER LES PLANTES DU POTAGER
 - taper `5` dans le menu principal  
 - toutes les plantes du potager seront arrosées et passeront au stade supérieur  
 - un message affichera les plantes arrosées ainsi que leur nouveau stade _(après arrosage)_
 
-### AFFICHER LE POTAGER  
+#### AFFICHER LE POTAGER  
 Il y a deux manières d'afficher le contenu du potager : sous forme de liste et sous forme de grille visuelle.  
 Pour la liste :  
 - taper `2` dans le menu principal  
@@ -77,11 +77,11 @@ Pour la grille :
 - taper `13` dans le menu principal  
 - le programme affichera le potager visuellement sous forme de grille constituée des plantes présentes au potager ainsi que les espaces vides _(puisque le potager est limité à 9 places)_  
 
-### IMPORTER/EXPORTER DES DONNÉES  
+#### IMPORTER/EXPORTER DES DONNÉES  
 - taper `8` ou `10` _(en foncion du format txt csv ou Json)_ dans le menu principal  
 - le programme demandera à l'utilisateur d'entrer le chemin complet du fichier à charger  
 - le programme chargera les données _(si valides)_ dans le potager en fonction des différentes contraintres liées notamment à la place limitée  
 
 - taper `9` ou `11`  _(en foncion du format txt csv ou Json)_ pour sauvegarder les données du potager actuel dans un fichier  
-- le programme demandera à l'utilisateur d'entrer le chemin complet pour sauvegarder les fichier  
+- le programme demandera à l'utilisateur d'entrer le chemin complet pour sauvegarder les fichiers  
 - le programme enregistrera les données dans le fichier souhaité  
